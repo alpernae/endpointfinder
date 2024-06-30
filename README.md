@@ -28,6 +28,10 @@ This bookmarklet scans the current webpage for endpoints and displays them in an
 - An overlay will appear, listing all the found endpoints.
 - Click the "Close" button to remove the overlay.
 
+## Screenshot
+
+![Screenshot](https://github.com/alpernae/endpointfinderbookmarklet/blob/main/Screenshot.jpg)
+
 ## Notes
 
 - The detected HTTP method is a best guess and may not always be accurate.
