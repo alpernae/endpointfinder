@@ -40,7 +40,3 @@ This bookmarklet scans the current webpage for endpoints and displays them in an
 ## Contributing
 
 Feel free to submit issues or pull requests if you find bugs or have improvements.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
