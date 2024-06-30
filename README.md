@@ -30,7 +30,7 @@ This bookmarklet scans the current webpage for endpoints and displays them in an
 
 ## Screenshot
 
-![Screenshot](https://github.com/alpernae/endpointfinderbookmarklet/blob/main/Screenshot.jpg)
+![Screenshot](https://github.com/alpernae/endpointfinder/blob/main/Screenshot.jpg)
 
 ## Notes
 
